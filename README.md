@@ -1,10 +1,13 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# <p align="center">Projeto Trybefy</p>
+
+## Contexto
+O Streaming de músicas chamado Trybefy, é um projeto que simula de forma simplificada o banco de dados da Spotify. O objetivo é construir um banco de dados com suas tabelas fazendo CRUD.
+
+## Competências desenvolvidas
+
+- Compreensão e uso da Structured Query Language (SQL).
+- Compreensão dos conceitos de chaves primárias e estrangeiras.
+- Utilizar SQL para inserir, alterar, deletar e pesquisar dados.
+- Utilizar SQL para relacionar tabelas.
+- Extrair dados de tableas que possuem relacionamentos.
+- Capacidade para ordenar, limitar, agrupar e filtrar dados.
